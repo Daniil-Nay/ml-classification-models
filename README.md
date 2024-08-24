@@ -1,5 +1,5 @@
 # Notebooks
-### 1-Credit_scoring (Give Me Some Credit)
+### 1-c-Credit_scoring (Give Me Some Credit)
 [ENG] The goal achieved in the notebook was to build a model that predicts   
 the probability of a person experiencing financial distress within the next two years.  
 The missing data was imputed, and the features were scaled before fitting several models:
