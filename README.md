@@ -19,5 +19,6 @@ The missing data was imputed, and the features were scaled before fitting severa
 | AdaBoost            | 0.8282           |
 | CatBoost            | 0.8370           |
 |---------------------|------------------|
+
 From the results, it is evident that the CatBoost classifier performed quite well compared to the other models.  
 However, there are still opportunities for improvement by further tuning the hyperparameters. 
