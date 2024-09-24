@@ -24,7 +24,7 @@ From the results, it is evident that the CatBoost classifier performed quite wel
 However, there are still opportunities for improvement by further tuning the hyperparameters. 
 
 
-### 1-2-Dogs_vs_Cats 
+### 2-с-Dogs_vs_Cats 
 [ENG] This notebook contains a simple convolutional neural network (CNN) designed to classify images of dogs and cats.  
 The model leverages multiple convolutional layers to extract features from the input images,   
 followed by batch normalization and pooling layers to enhance stability and reduce overfitting.   
